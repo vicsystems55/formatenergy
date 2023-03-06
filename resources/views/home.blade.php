@@ -392,8 +392,9 @@
                     </div>
                 </div>
                 <div class="text-holder">
-                    <h3><a href="project-single.html">Stock Custodian</a></h3>
-                    <p>We innovate systematically, continuously and successfully.</p>
+                    <h3><a href="project-single.html">Procurement</a></h3>
+                    <p>Furnishing of 631 aircraft maintenance depot warehouse - Nigerian  Air Force base, Ikeja, Lagos.
+                    </p>
                 </div>
             </div>
             <!--End Single project Style1-->
@@ -419,200 +420,17 @@
                     </div>
                 </div>
                 <div class="text-holder">
-                    <h3><a href="project-single.html">Fund Management</a></h3>
-                    <p>Committed to high quality projects and innovate business.</p>
+                    <h3><a href="project-single.html">IT Setup</a></h3>
+                    <p>Furnishing of 2 blocks of 10 x one-bedroom soq  at NAF base, Shasha
+                    </p>
                 </div>
             </div>
             <!--End Single project Style1-->
             <!--Start Single project Style1-->
-            <div class="single-project-style1">
-                <div class="img-holder">
-                    <div class="inner">
-                        <img src="assets/images/project/project-v1-3.jpg" alt="Awesome Image">
-                        <div class="overlay-style-one bg1">
-                            <div class="box">
-                                <div class="content">
-                                    <div class="zoom-button">
-                                        <a class="lightbox-image" data-fancybox="gallery" href="assets/images/project/project-v1-3.jpg">
-                                            <img src="assets/images/icon/zoom.png" alt="Zoom Icon">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="read-more-button">
-                        <a class="thm-bgc1" href="project-single.html"><span class="flaticon-next"></span></a>
-                    </div>
-                </div>
-                <div class="text-holder">
-                    <h3><a href="project-single.html">Business Management</a></h3>
-                    <p>Organically grow the holistic world view innovation strategies.</p>
-                </div>
-            </div>
+
             <!--End Single project Style1-->
 
-            <!--Start Single project Style1-->
-            <div class="single-project-style1">
-                <div class="img-holder">
-                    <div class="inner">
-                        <img src="assets/images/project/project-v1-4.jpg" alt="Awesome Image">
-                        <div class="overlay-style-one bg1">
-                            <div class="box">
-                                <div class="content">
-                                    <div class="zoom-button">
-                                        <a class="lightbox-image" data-fancybox="gallery" href="assets/images/project/project-v1-4.jpg">
-                                            <img src="assets/images/icon/zoom.png" alt="Zoom Icon">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="read-more-button">
-                        <a class="thm-bgc1" href="project-single.html"><span class="flaticon-next"></span></a>
-                    </div>
-                </div>
-                <div class="text-holder">
-                    <h3><a href="project-single.html">Digital Analysis</a></h3>
-                    <p>Quickly maximize timely deliverables for real-time Digital marketing.</p>
-                </div>
-            </div>
-            <!--End Single project Style1-->
-            <!--Start Single project Style1-->
-            <div class="single-project-style1">
-                <div class="img-holder">
-                    <div class="inner">
-                        <img src="assets/images/project/project-v1-5.jpg" alt="Awesome Image">
-                        <div class="overlay-style-one bg1">
-                            <div class="box">
-                                <div class="content">
-                                    <div class="zoom-button">
-                                        <a class="lightbox-image" data-fancybox="gallery" href="assets/images/project/project-v1-5.jpg">
-                                            <img src="assets/images/icon/zoom.png" alt="Zoom Icon">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="read-more-button">
-                        <a class="thm-bgc1" href="project-single.html"><span class="flaticon-next"></span></a>
-                    </div>
-                </div>
-                <div class="text-holder">
-                    <h3><a href="project-single.html">Fund Management</a></h3>
-                    <p>Committed to high quality projects and innovate business.</p>
-                </div>
-            </div>
-            <!--End Single project Style1-->
-            <!--Start Single project Style1-->
-            <div class="single-project-style1">
-                <div class="img-holder">
-                    <div class="inner">
-                        <img src="assets/images/project/project-v1-6.jpg" alt="Awesome Image">
-                        <div class="overlay-style-one bg1">
-                            <div class="box">
-                                <div class="content">
-                                    <div class="zoom-button">
-                                        <a class="lightbox-image" data-fancybox="gallery" href="assets/images/project/project-v1-6.jpg">
-                                            <img src="assets/images/icon/zoom.png" alt="Zoom Icon">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="read-more-button">
-                        <a class="thm-bgc1" href="project-single.html"><span class="flaticon-next"></span></a>
-                    </div>
-                </div>
-                <div class="text-holder">
-                    <h3><a href="project-single.html">Business Management</a></h3>
-                    <p>Organically grow the holistic world view innovation strategies.</p>
-                </div>
-            </div>
-            <!--End Single project Style1-->
-            <!--Start Single project Style1-->
-            <div class="single-project-style1">
-                <div class="img-holder">
-                    <div class="inner">
-                        <img src="assets/images/project/project-v1-7.jpg" alt="Awesome Image">
-                        <div class="overlay-style-one bg1">
-                            <div class="box">
-                                <div class="content">
-                                    <div class="zoom-button">
-                                        <a class="lightbox-image" data-fancybox="gallery" href="assets/images/project/project-v1-7.jpg">
-                                            <img src="assets/images/icon/zoom.png" alt="Zoom Icon">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="read-more-button">
-                        <a class="thm-bgc1" href="project-single.html"><span class="flaticon-next"></span></a>
-                    </div>
-                </div>
-                <div class="text-holder">
-                    <h3><a href="project-single.html">Digital Analysis</a></h3>
-                    <p>Quickly maximize timely deliverables for real-time Digital marketing.</p>
-                </div>
-            </div>
-            <!--End Single project Style1-->
-            <!--Start Single project Style1-->
-            <div class="single-project-style1">
-                <div class="img-holder">
-                    <div class="inner">
-                        <img src="assets/images/project/project-v1-8.jpg" alt="Awesome Image">
-                        <div class="overlay-style-one bg1">
-                            <div class="box">
-                                <div class="content">
-                                    <div class="zoom-button">
-                                        <a class="lightbox-image" data-fancybox="gallery" href="assets/images/project/project-v1-8.jpg">
-                                            <img src="assets/images/icon/zoom.png" alt="Zoom Icon">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="read-more-button">
-                        <a class="thm-bgc1" href="project-single.html"><span class="flaticon-next"></span></a>
-                    </div>
-                </div>
-                <div class="text-holder">
-                    <h3><a href="project-single.html">Fund Management</a></h3>
-                    <p>Committed to high quality projects and innovate business.</p>
-                </div>
-            </div>
-            <!--End Single project Style1-->
-            <!--Start Single project Style1-->
-            <div class="single-project-style1">
-                <div class="img-holder">
-                    <div class="inner">
-                        <img src="assets/images/project/project-v1-9.jpg" alt="Awesome Image">
-                        <div class="overlay-style-one bg1">
-                            <div class="box">
-                                <div class="content">
-                                    <div class="zoom-button">
-                                        <a class="lightbox-image" data-fancybox="gallery" href="assets/images/project/project-v1-9.jpg">
-                                            <img src="assets/images/icon/zoom.png" alt="Zoom Icon">
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
-                    <div class="read-more-button">
-                        <a class="thm-bgc1" href="project-single.html"><span class="flaticon-next"></span></a>
-                    </div>
-                </div>
-                <div class="text-holder">
-                    <h3><a href="project-single.html">Business Management</a></h3>
-                    <p>Organically grow the holistic world view innovation strategies.</p>
-                </div>
-            </div>
+
             <!--End Single project Style1-->
 
         </div>
