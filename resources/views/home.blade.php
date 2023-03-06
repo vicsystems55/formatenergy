@@ -146,7 +146,7 @@
                         </div>
                         <div class="big-title"><h2>What We <span>Offer Our Client</span></h2></div>
                     </div>
-                    <div class="button">
+                    <div class="button d-none">
                         <a class="btn-one thm-bgc1" href="services.html"><span class="txt">View All</span></a>
                     </div>
                 </div>
@@ -363,7 +363,7 @@
                 </div>
                 <div class="big-title"><h2>What We <span>Have Done Work</span></h2></div>
             </div>
-            <div class="button">
+            <div class="button d-none">
                 <a class="btn-one thm-bgc1" href="projects.html"><span class="txt">View All</span></a>
             </div>
         </div>
@@ -892,9 +892,9 @@
 <!--End Features Area-->
 
 <!--Start latest blog area -->
-<section class="latest-blog-area">
+<section class="latest-blog-area ">
     <div class="container">
-        <div class="row">
+        <div class="row d-none">
             <div class="col-xl-12">
                 <div class="top">
                     <div class="sec-title">
@@ -910,7 +910,7 @@
                 </div>
             </div>
         </div>
-        <div class="row">
+        <div class="row d-none">
             <!--Start single blog post-->
             <div class="col-xl-4 col-lg-4 col-md-12 col-sm-12">
                 <div class="single-blog-post wow fadeInUp animated" data-wow-delay="0.1s" data-wow-duration="1200ms">

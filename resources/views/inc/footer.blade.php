@@ -26,14 +26,14 @@
                         <ul class="company-info-links">
                             <li><a href="#">About Us</a></li>
                             <li><a href="#">Company</a></li>
-                            <li><a href="#">Press & Blog.</a></li>
+
                             <li><a href="#">Privacy Policy</a></li>
                         </ul>
                     </div>
                 </div>
                 <!--End single footer widget-->
                 <!--Start single footer widget-->
-                <div class="col-xl-2 col-lg-2 col-md-6 col-sm-12 wow animated fadeInUp" data-wow-delay="0.7s">
+                {{-- <div class="col-xl-2 col-lg-2 col-md-6 col-sm-12 wow animated fadeInUp" data-wow-delay="0.7s">
                     <div class="single-footer-widget">
                         <div class="title">
                             <h3>RESOURCES</h3>
@@ -45,7 +45,7 @@
                             <li><a href="#">Business Loan</a></li>
                         </ul>
                     </div>
-                </div>
+                </div> --}}
                 <!--End single footer widget-->
                 <!--Start single footer widget-->
                 <div class="col-xl-4 col-lg-4 col-md-6 col-sm-12 wow animated fadeInUp" data-wow-delay="0.9s">
@@ -71,20 +71,22 @@
             <div class="outer-box">
                 <div class="single-box">
                     <div class="copyright-text">
-                        <p>Copyright © 2019 All Rights<br> Reserved. <a href="#">Energy.</a></p>
+                        <p>Copyright © {{\Carbon\Carbon::now()->year}} All Rights<br> Format Energy.</p>
                     </div>
                 </div>
                 <div class="single-box">
                     <div class="our-info-box">
                         <ul>
-                            <li><a href="tel:123456789">(+01) 123 456 7890</a></li>
-                            <li><a href="mailto:info@templatepath.com">info@example.com</a></li>
+                            <li><a href="tel:123456789">08037125172. 08188093777</a></li>
+                            <li><a href="mailto:info@templatepath.com">formatenergylimited@gmail.com</a></li>
                         </ul>
                     </div>
                 </div>
                 <div class="single-box">
                     <div class="our-info-box">
-                        <p>51 Somestreet Cambridge,<br> CB4 3AA, United Kingdom</p>
+                        <p>No 9, Oluwole Adekunle Close, <br>
+                            Off Church Street, Jakande, Lagos
+                       </p>
                     </div>
                 </div>
                 <div class="single-box">
@@ -99,9 +101,7 @@
                             <li>
                                 <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                             </li>
-                            <li>
-                                <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
-                            </li>
+
                         </ul>
                     </div>
                 </div>
