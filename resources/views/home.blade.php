@@ -453,38 +453,7 @@
             <div class="col-xl-12">
                 <div class="theme-carousel testimonial-carousel owl-carousel owl-theme owl-dot-style1" data-options='{"loop":true, "margin":30, "autoheight":true, "nav":false, "dots":true, "autoplay":true, "autoplayTimeout":10000, "smartSpeed":700, "responsive":{ "0":{"items": "1"}, "768":{"items": "1"}, "1199":{"items": "2" }}}'>
                     <!--Start Single Testimonial Style1-->
-                    <div class="single-testimonial-style1">
-                        <div class="top">
-                            <div class="quote-box">
-                                <span class="flaticon-quote thm-clr1"></span>
-                            </div>
-                            <div class="text-box">
-                                <p>I loved the customer service you guys provided me. That was very nice and patient with questions I had. I would really like definitely come back here. Thank you for yours service.</p>
-                            </div>
-                        </div>
-                        <div class="bottom">
-                            <div class="image-box">
-                                <img src="assets/images/testimonial/testimonial-v1-1.png" alt="Awesome Image">
-                            </div>
-                            <div class="client-info-box">
-                                <div class="left">
-                                    <h3>Richard Scott</h3>
-                                    <p>Chairman</p>
-                                </div>
-                                <div class="right">
-                                    <div class="rating-box">
-                                        <ul>
-                                            <li><a href="#"><span class="flaticon-favourite thm-clr1"></span></a></li>
-                                            <li><a href="#"><span class="flaticon-favourite thm-clr1"></span></a></li>
-                                            <li><a href="#"><span class="flaticon-favourite thm-clr1"></span></a></li>
-                                            <li><a href="#"><span class="flaticon-favourite thm-clr1"></span></a></li>
-                                            <li><a href="#"><span class="flaticon-star thm-clr1"></span></a></li>
-                                        </ul>
-                                    </div>
-                                </div>
-                            </div>
-                        </div>
-                    </div>
+
                     <!--End Single Testimonial Style1-->
                     <!--Start Single Testimonial Style1-->
                     <div class="single-testimonial-style1">
@@ -502,8 +471,8 @@
                             </div>
                             <div class="client-info-box">
                                 <div class="left">
-                                    <h3>Richard Scott</h3>
-                                    <p>Chairman</p>
+                                    <h3>Edet Ufiok</h3>
+                                    <p>Engineer</p>
                                 </div>
                                 <div class="right">
                                     <div class="rating-box">
@@ -537,8 +506,8 @@
                             </div>
                             <div class="client-info-box">
                                 <div class="left">
-                                    <h3>Richard Scott</h3>
-                                    <p>Chairman</p>
+                                    <h3>Richael Godwin</h3>
+                                    <p>Director</p>
                                 </div>
                                 <div class="right">
                                     <div class="rating-box">
@@ -567,12 +536,12 @@
                         </div>
                         <div class="bottom">
                             <div class="image-box">
-                                <img src="assets/images/testimonial/testimonial-v1-2.png" alt="Awesome Image">
+                                <img src="assets/images/testimonial/testimonial-v3-1.jpg" alt="Awesome Image">
                             </div>
                             <div class="client-info-box">
                                 <div class="left">
-                                    <h3>Richard Scott</h3>
-                                    <p>Chairman</p>
+                                    <h3>Richard Sadiq</h3>
+                                    <p>CEO Squad Enterprise Ltd.</p>
                                 </div>
                                 <div class="right">
                                     <div class="rating-box">
