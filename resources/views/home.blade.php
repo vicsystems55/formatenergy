@@ -475,6 +475,8 @@
                                     <p>Engineer</p>
                                 </div>
                                 <div class="right">
+
+                                    
                                     <div class="rating-box">
                                         <ul>
                                             <li><a href="#"><span class="flaticon-favourite thm-clr1"></span></a></li>
