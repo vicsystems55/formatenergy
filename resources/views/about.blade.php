@@ -57,9 +57,11 @@
                         <div class="big-title"><h2>For a Daily Expenses<br> <span>Small Business Loans</span></h2></div>
                     </div>
                     <div class="inner-contant">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore t dolore magna aliqua. Ut enim ad minim veniam quis.</p>
-                        <p>what people are posting on social networks With a community of over. million users and a majority age group being 18 to 29. wouldn’t you want to make sure you’re monitoring what people are posting on social networks?</p>
-                        <div class="bottom-box">
+                        <p>Format Energy is registered in Nigeria as a Limited Liability company with specific focus on purchasing, supply, storage, trading, marketing, distribution and transportation of petroleum products, and ICT. We also render consultation and support services for both upstream and downstream such as logistics, supplies, and equipment sourcing in Africa with particular interest in Nigeria.
+                        </p>
+                        <p>Format Energy leverages on the expertise of its team and a culture of excellence to deliver best quality services to its clients. Our integrated value chain ensures reliability and dependability with a client focused strategy to ensure that our services conform with global best practices in the targeted sectors.
+                        </p>
+                        <div class="bottom-box d-none">
                             <div class="video-holder-box">
                                 <div class="icon">
                                     <div class="inner">
@@ -145,7 +147,7 @@
                 <h5>A QUICK & TRANSPARENT PROCESS</h5>
                 <div class="border-box"></div>
             </div>
-            <div class="big-title"><h2>Very Simple Process For <span>Online<br> Applection</span></h2></div>
+            <div class="big-title"><h2>Our <span>Approach<br></span></h2></div>
         </div>
         <div class="row">
             <div class="col-xl-12">
@@ -157,8 +159,9 @@
                             <div class="count-box"><p>01</p></div>
                         </div>
                         <div class="text-holder">
-                            <h3>Get a Free Quote</h3>
-                            <p>We will customize a loan based on the amount of cash your company need term length</p>
+                            <h3>Management  Expertise
+                            </h3>
+
                         </div>
                     </div>
                     <!--Start Single Work Process-->
@@ -169,8 +172,9 @@
                             <div class="count-box"><p>02</p></div>
                         </div>
                         <div class="text-holder">
-                            <h3>Get an Instant Decision</h3>
-                            <p>We provide online instant cash loans with quick approval that suit your term length</p>
+                            <h3>Updated Technology
+                            </h3>
+
                         </div>
                     </div>
                     <!--Start Single Work Process-->
@@ -181,10 +185,37 @@
                             <div class="count-box"><p>03</p></div>
                         </div>
                         <div class="text-holder">
-                            <h3>Get Funding Fast</h3>
-                            <p>When you have a good credit profile and you have built your loan cheaper with us</p>
+                            <h3>Quality Control
+                            </h3>
+
                         </div>
                     </div>
+
+                    <div class="single-work-process text-center wow fadeInUp animated" data-wow-delay="0.5s" data-wow-duration="1200ms">
+                        <div class="icon-holder">
+                            <span class="flaticon-investment thm-clr1"></span>
+                            <div class="count-box"><p>04</p></div>
+                        </div>
+                        <div class="text-holder">
+                            <h3>Prompt Service Delivery
+
+                            </h3>
+
+                        </div>
+                    </div>
+                    <div class="single-work-process text-center wow fadeInUp animated" data-wow-delay="0.5s" data-wow-duration="1200ms">
+                        <div class="icon-holder">
+                            <span class="flaticon-investment thm-clr1"></span>
+                            <div class="count-box"><p>05</p></div>
+                        </div>
+                        <div class="text-holder">
+                            <h3>Knowledge of Operating Environment
+
+                            </h3>
+
+                        </div>
+                    </div>
+
                     <!--Start Single Work Process-->
                 </div>
             </div>
@@ -195,7 +226,7 @@
 
 
 <!--Start Fact Counter Area-->
-<section class="fact-counter-area style2">
+<section class="fact-counter-area style2 d-none">
     <div class="container">
         <div class="fact-counter style2">
             <!--Start Single Fact Counter-->
@@ -286,20 +317,7 @@
                             <div class="inner">
                                 <img src="assets/images/team/team-v1-1.jpg" alt="Awesome Image">
                                 <div class="team-social-links style2">
-                                    <ul>
-                                        <li>
-                                            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                                        </li>
-                                    </ul>
+                                    
                                 </div>
                             </div>
                             <div class="title-holder">
@@ -549,6 +567,6 @@
         </div>
     </div>
 </section>
-<!--End Team Area--> 
+<!--End Team Area-->
 
 @endsection

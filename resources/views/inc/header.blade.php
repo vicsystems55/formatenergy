@@ -67,7 +67,7 @@
                             </li>
                         </ul>
                     </div>
-                    <div class="cart-box">
+                    <div class="cart-box d-none">
                         <a href="#" class="cart-btn">
                             <span class="flaticon-bag"></span>
                             <span class="count">0</span>
@@ -89,7 +89,7 @@
                             </li>
                         </ul>
                     </div>
-                  
+
 
                 </div>
             </div>
