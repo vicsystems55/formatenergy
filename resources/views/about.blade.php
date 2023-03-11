@@ -27,7 +27,7 @@
 <!--End breadcrumb area-->
 
 <!--Start About Style1 Area-->
-<section class="about-style1-area">
+<section class="about-style1-area pb-4">
     <div class="container">
         <div class="row">
             <div class="col-xl-7 col-lg-6">
@@ -41,7 +41,7 @@
                                 <h2>20</h2>
                             </div>
                             <div class="right">
-                                <h4>Years of Experience In finance</h4>
+                                <h4>Years of Experience</h4>
                             </div>
                         </div>
                     </div>
@@ -54,31 +54,75 @@
                             <h5>ABOUT COMPANY</h5>
                             <div class="border-box"></div>
                         </div>
-                        <div class="big-title"><h2>For a Daily Expenses<br> <span>Small Business Loans</span></h2></div>
+                        <div class="big-title"><h2>Who<br> <span>We are</span></h2></div>
                     </div>
                     <div class="inner-contant">
                         <p>Format Energy is registered in Nigeria as a Limited Liability company with specific focus on purchasing, supply, storage, trading, marketing, distribution and transportation of petroleum products, and ICT. We also render consultation and support services for both upstream and downstream such as logistics, supplies, and equipment sourcing in Africa with particular interest in Nigeria.
                         </p>
                         <p>Format Energy leverages on the expertise of its team and a culture of excellence to deliver best quality services to its clients. Our integrated value chain ensures reliability and dependability with a client focused strategy to ensure that our services conform with global best practices in the targeted sectors.
                         </p>
-                        <div class="bottom-box d-none">
-                            <div class="video-holder-box">
-                                <div class="icon">
-                                    <div class="inner">
-                                        <a class="video-popup wow zoomIn" data-wow-delay="300ms" data-wow-duration="1500ms" title="Energy Video Gallery" href="https://www.youtube.com/watch?v=p25gICT63ek">
-                                            <span class="flaticon-play-button"></span>
-                                        </a>
-                                    </div>
-                                </div>
-                            </div>
-                            <div class="title-box">
-                                <h5>How We Work</h5>
-                            </div>
-                        </div>
+
+
+
 
                     </div>
                 </div>
             </div>
+
+        </div>
+    </div>
+</section>
+
+<section class="about-style1-area py-4">
+
+    <div class="container">
+        <div class="row">
+
+            <div class="col-xl-5 col-lg-5 ">
+                <div class="about-style1-image-box clearfix">
+                    <div class="patter-bg" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1500" style="background-image:url(assets/images/pattern/pattern-bg-1.png);"></div>
+
+                    <div class="sec-title"  data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1500" >
+
+                        <div class="big-title"><h2>Our<br> <span>Vision</span></h2></div>
+
+                    </div>
+                    <div class="inner-contant" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1500" >
+                        <p>To build a thriving and dynamic leading industry and indigenous company which is driven by a fast-paced business development strategic focus underpinned by principles of honesty and fair-play.
+
+                        </p>
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-5 col-lg-5 ">
+                <div class="about-style1-image-box clearfix ">
+
+                    <div class="sec-title" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500">
+
+                        <div class="big-title"><h2>Our<br> <span>Mission</span></h2></div>
+
+                    </div>
+                    <div class="inner-contant" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500">
+                        <p>To build a thriving and dynamic leading industry and indigenous company which is driven by a fast-paced business development strategic focus underpinned by principles of honesty and fair-play.
+
+                        </p>
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+
+
+
 
         </div>
     </div>
@@ -92,10 +136,10 @@
     <div class="container">
         <div class="sec-title center text-center wow slideInUp animated" data-wow-delay="0.3s" data-wow-duration="1200ms">
             <div class="title">
-                <h5>OUR FEATURES</h5>
+                <h5>ANALYSIS</h5>
                 <div class="border-box"></div>
             </div>
-            <div class="big-title"><h2>We Can Give Best <span>Facilities<br> For BUSINESS</span></h2></div>
+            <div class="big-title"><h2>Marketing and Competitive<span><br> Analysis</span></h2></div>
         </div>
     </div>
     <div class="container-box">
@@ -103,8 +147,9 @@
         <div class="single-features-box" style="background-image:url(assets/images/resources/features-2.jpg);">
             <div class="inner">
                 <span class="flaticon-acquisition thm-clr1"></span>
-                <h3>Lower Rates</h3>
-                <p>We will customize a loan based on the amount of cash your company need.</p>
+                <h3>Marketing Anaylysis</h3>
+                <p class="">Current influential business trends – recent inclines & interests in telecoms and construction consortiums
+                </p>
             </div>
         </div>
         <!--End Single Features Box-->
@@ -112,8 +157,11 @@
         <div class="single-features-box style2" style="background-image:url(assets/images/resources/features-1.jpg);">
             <div class="inner">
                 <span class="flaticon-business"></span>
-                <h3>Quick and Easy</h3>
-                <p>We provide online instant cash loans with quick approval that suit you.</p>
+                <h3>Target Customers</h3>
+
+                <p>Company High level management</p>
+                <p>Large and Small-scale business set-ups</p>
+                <p>Governmental Agencies</p>
             </div>
         </div>
         <!--End Single Features Box-->
@@ -121,14 +169,143 @@
         <div class="single-features-box style3" style="background-image:url(assets/images/resources/features-3.jpg);">
             <div class="inner">
                 <span class="flaticon-bill thm-clr1"></span>
-                <h3>No Payment Penalty</h3>
-                <p>Get Credit Within 24 hours!<br> Up to 98% Cash<br> Withdrawal Facilities</p>
+                <h3>Critical Success Factors</h3>
+                <p>Range of products</p>
+                <p>location of facilities </p>
+                <p>product quality</p>
+
             </div>
         </div>
         <!--End Single Features Box-->
     </div>
 </section>
 <!--End Features Area-->
+
+<section class="latest-blog-area">
+    <div class="container">
+        <div class="row">
+            <div class="col-xl-12">
+                <div class="top">
+                    <div class="sec-title">
+                        <div class="title">
+                            <h5>SOCIETY</h5>
+                            <div class="border-box"></div>
+                        </div>
+                        <div class="big-title"><h2>Our Cooperate <span>Responsibiliy</span></h2></div>
+                    </div>
+                    <div class="button">
+                        <a class="btn-one thm-bgc1" href="#"><span class="txt">View All</span></a>
+                    </div>
+                </div>
+            </div>
+        </div>
+        <div class="row">
+            <!--Start single blog post-->
+            <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12">
+                <div class="single-blog-post wow fadeInUp animated animated" data-wow-delay="0.1s" data-wow-duration="1200ms" style="visibility: visible; animation-duration: 1200ms; animation-delay: 0.1s; animation-name: fadeInUp;">
+                    <div class="img-holder">
+                        <div class="inner">
+                            <img style="height: 200px; object-fit: cover;" src="assets/images/blog/blog-v1-1.jpg" alt="Awesome Image">
+                            <div class="overlay-style-box1"></div>
+                            <div class="link-box">
+                                <a href="blog-single.html"><span class="flaticon-link"></span></a>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="text-holder">
+                        <div class="categories">
+                            <p>Partnership</p>
+                            <div class="border-box thm-bgc1"></div>
+                        </div>
+                        <h3 class="blog-title"><a href="blog-single.html">Partnership with the competent Charitable Institution in Nigeria and regions where we work
+                        </h3>
+
+                    </div>
+                </div>
+            </div>
+            <!--End single blog post-->
+            <!--Start single blog post-->
+            <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12">
+                <div class="single-blog-post wow fadeInUp animated animated" data-wow-delay="0.3s" data-wow-duration="1200ms" style="visibility: visible; animation-duration: 1200ms; animation-delay: 0.3s; animation-name: fadeInUp;">
+                    <div class="img-holder">
+                        <div class="inner">
+                            <img style="height: 200px; object-fit: cover;" src="assets/images/blog/blog-v1-2.jpg" alt="Awesome Image">
+                            <div class="overlay-style-box1"></div>
+                            <div class="link-box">
+                                <a href="blog-single.html"><span class="flaticon-link"></span></a>
+                            </div>
+                        </div>
+                        <div class="date-box">
+                            <h2>15<br> <span>JUN</span></h2>
+                        </div>
+                    </div>
+                    <div class="text-holder">
+                        <div class="categories">
+                            <p>Management</p>
+                            <div class="border-box thm-bgc1"></div>
+                        </div>
+                        <h3 class="blog-title"><a href="blog-single.html">Food waste management: proper recycling & food waste reduction
+                        </h3>
+
+                    </div>
+                </div>
+            </div>
+            <!--End single blog post-->
+            <!--Start single blog post-->
+            <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12">
+                <div class="single-blog-post wow fadeInUp animated animated" data-wow-delay="0.5s" data-wow-duration="1200ms" style="visibility: visible; animation-duration: 1200ms; animation-delay: 0.5s; animation-name: fadeInUp;">
+                    <div class="img-holder">
+                        <div class="inner">
+                            <img style="height: 200px; object-fit: cover;" src="assets/images/blog/blog-v1-3.jpg" alt="Awesome Image">
+                            <div class="overlay-style-box1"></div>
+                            <div class="link-box">
+                                <a href="blog-single.html"><span class="flaticon-link"></span></a>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="text-holder">
+                        <div class="categories">
+                            <p>ENERGY</p>
+                            <div class="border-box thm-bgc1"></div>
+                        </div>
+                        <h3 class="blog-title"><a href="blog-single.html">Effective energy Conservation
+                        </h3>
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-3 col-lg-3 col-md-12 col-sm-12">
+                <div class="single-blog-post wow fadeInUp animated animated" data-wow-delay="0.5s" data-wow-duration="1200ms" style="visibility: visible; animation-duration: 1200ms; animation-delay: 0.5s; animation-name: fadeInUp;">
+                    <div class="img-holder">
+                        <div class="inner">
+                            <img style="height: 200px; object-fit: cover;" src="assets/images/blog/blog-v2-1.jpg" alt="Awesome Image">
+                            <div class="overlay-style-box1"></div>
+                            <div class="link-box">
+                                <a href="blog-single.html"><span class="flaticon-link"></span></a>
+                            </div>
+                        </div>
+
+                    </div>
+                    <div class="text-holder">
+                        <div class="categories">
+                            <p>PRODUCTIVITY</p>
+                            <div class="border-box thm-bgc1"></div>
+                        </div>
+                        <h3 class="blog-title"><a href="blog-single.html">Productive workforce
+
+                        </h3>
+
+                    </div>
+                </div>
+            </div>
+            <!--End single blog post-->
+
+        </div>
+    </div>
+</section>
 
 <!--Start Work Process Area-->
 <section class="work-process-area">
@@ -298,6 +475,8 @@
 <!--End Fact Counter Area-->
 
 <!--Start Team Area-->
+
+
 <section class="team-area">
     <div class="container">
         <div class="sec-title center text-center wow slideInUp animated" data-wow-delay="0.3s" data-wow-duration="1200ms">
@@ -315,14 +494,15 @@
                     <div class="single-team-member style2">
                         <div class="img-holder">
                             <div class="inner">
-                                <img src="assets/images/team/team-v1-1.jpg" alt="Awesome Image">
+                                <img style="height: 320px; object-fit:cover;" src="assets/images/team/team-v1-1.jpg" alt="Awesome Image">
                                 <div class="team-social-links style2">
-                                    
+
                                 </div>
                             </div>
                             <div class="title-holder">
-                                <h3><a href="#">DAVID SMITH</a></h3>
-                                <p>Marketing Manager</p>
+                                <h3><a href="#">Ogunseye Olusola Temitope
+                                </a></h3>
+                                <p>MD/CEO</p>
                             </div>
                         </div>
                     </div>
@@ -331,27 +511,13 @@
                     <div class="single-team-member style2">
                         <div class="img-holder">
                             <div class="inner">
-                                <img src="assets/images/team/team-v1-2.jpg" alt="Awesome Image">
-                                <div class="team-social-links style2">
-                                    <ul>
-                                        <li>
-                                            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
+                                <img style="height: 320px; object-fit:cover;" src="assets/images/team/team-v1-2.jpg" alt="Awesome Image">
+
                             </div>
                             <div class="title-holder">
-                                <h3><a href="#">Mariam Nees</a></h3>
-                                <p>CO-Founder, CEO</p>
+                                <h3><a href="#">Gabriel Abayomi Ogunseye
+                                </a></h3>
+                                <p>Chief Operating Officer COO</p>
                             </div>
                         </div>
                     </div>
@@ -360,27 +526,15 @@
                     <div class="single-team-member style2">
                         <div class="img-holder">
                             <div class="inner">
-                                <img src="assets/images/team/team-v1-3.jpg" alt="Awesome Image">
+                                <img style="height: 320px; object-fit:cover;" src="assets/images/team/team-v1-3.jpg" alt="Awesome Image">
                                 <div class="team-social-links style2">
-                                    <ul>
-                                        <li>
-                                            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                                        </li>
-                                    </ul>
+
                                 </div>
                             </div>
                             <div class="title-holder">
-                                <h3><a href="#">David Brown</a></h3>
-                                <p>Project Manager</p>
+                                <h3><a href="#">Babatunde Adebayo
+                                </a></h3>
+                                <p>Chief Finance Officer</p>
                             </div>
                         </div>
                     </div>
@@ -390,115 +544,15 @@
                     <div class="single-team-member style2">
                         <div class="img-holder">
                             <div class="inner">
-                                <img src="assets/images/team/team-v1-1.jpg" alt="Awesome Image">
+                                <img style="height: 320px; object-fit:cover;" src="assets/images/team/team-v1-4.jpg" alt="Awesome Image">
                                 <div class="team-social-links style2">
-                                    <ul>
-                                        <li>
-                                            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="title-holder">
-                                <h3><a href="#">DAVID SMITH</a></h3>
-                                <p>Marketing Manager</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Single Team Member-->
-                    <!--Start Single Team Member-->
-                    <div class="single-team-member style2">
-                        <div class="img-holder">
-                            <div class="inner">
-                                <img src="assets/images/team/team-v1-2.jpg" alt="Awesome Image">
-                                <div class="team-social-links style2">
-                                    <ul>
-                                        <li>
-                                            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="title-holder">
-                                <h3><a href="#">Mariam Nees</a></h3>
-                                <p>CO-Founder, CEO</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Single Team Member-->
-                    <!--Start Single Team Member-->
-                    <div class="single-team-member style2">
-                        <div class="img-holder">
-                            <div class="inner">
-                                <img src="assets/images/team/team-v1-3.jpg" alt="Awesome Image">
-                                <div class="team-social-links style2">
-                                    <ul>
-                                        <li>
-                                            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="title-holder">
-                                <h3><a href="#">David Brown</a></h3>
-                                <p>Project Manager</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Single Team Member-->
 
-                    <!--Start Single Team Member-->
-                    <div class="single-team-member style2">
-                        <div class="img-holder">
-                            <div class="inner">
-                                <img src="assets/images/team/team-v1-1.jpg" alt="Awesome Image">
-                                <div class="team-social-links style2">
-                                    <ul>
-                                        <li>
-                                            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                                        </li>
-                                    </ul>
                                 </div>
                             </div>
                             <div class="title-holder">
-                                <h3><a href="#">DAVID SMITH</a></h3>
-                                <p>Marketing Manager</p>
+                                <h3><a href="#">Eloko, Stephen Damilola
+                                </a></h3>
+                                <p>Projects Coordinator</p>
                             </div>
                         </div>
                     </div>
@@ -507,59 +561,21 @@
                     <div class="single-team-member style2">
                         <div class="img-holder">
                             <div class="inner">
-                                <img src="assets/images/team/team-v1-2.jpg" alt="Awesome Image">
+                                <img style="height: 320px; object-fit:cover;" src="assets/images/team/team-v1-5.jpg" alt="Awesome Image">
                                 <div class="team-social-links style2">
-                                    <ul>
-                                        <li>
-                                            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                                        </li>
-                                    </ul>
+
                                 </div>
                             </div>
                             <div class="title-holder">
-                                <h3><a href="#">Mariam Nees</a></h3>
-                                <p>CO-Founder, CEO</p>
+                                <h3><a href="#">Mfon E. Otung, CMC, FIMC
+                                </a></h3>
+                                <p>Business Development Manager</p>
                             </div>
                         </div>
                     </div>
                     <!--End Single Team Member-->
                     <!--Start Single Team Member-->
-                    <div class="single-team-member style2">
-                        <div class="img-holder">
-                            <div class="inner">
-                                <img src="assets/images/team/team-v1-3.jpg" alt="Awesome Image">
-                                <div class="team-social-links style2">
-                                    <ul>
-                                        <li>
-                                            <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
-                                        </li>
-                                        <li>
-                                            <a href="#"><i class="fa fa-instagram" aria-hidden="true"></i></a>
-                                        </li>
-                                    </ul>
-                                </div>
-                            </div>
-                            <div class="title-holder">
-                                <h3><a href="#">David Brown</a></h3>
-                                <p>Project Manager</p>
-                            </div>
-                        </div>
-                    </div>
+
                     <!--End Single Team Member-->
                 </div>
 

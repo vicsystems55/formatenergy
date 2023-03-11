@@ -88,7 +88,7 @@
 <!--End Facts Area-->
 
 <!--Start About Style1 Area-->
-<section class="about-style1-area">
+<section class="about-style1-area pb-4">
     <div class="container">
         <div class="row">
             <div class="col-xl-7 col-lg-6">
@@ -124,6 +124,8 @@
                         </p>
 
 
+
+
                     </div>
                 </div>
             </div>
@@ -131,6 +133,63 @@
         </div>
     </div>
 </section>
+
+<section class="about-style1-area py-4">
+    
+    <div class="container">
+        <div class="row">
+
+            <div class="col-xl-5 col-lg-5 ">
+                <div class="about-style1-image-box clearfix">
+                    <div class="patter-bg" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1500" style="background-image:url(assets/images/pattern/pattern-bg-1.png);"></div>
+
+                    <div class="sec-title"  data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1500" >
+
+                        <div class="big-title"><h2>Our<br> <span>Vision</span></h2></div>
+
+                    </div>
+                    <div class="inner-contant" data-aos="fade-right" data-aos-easing="linear" data-aos-duration="1500" >
+                        <p>To build a thriving and dynamic leading industry and indigenous company which is driven by a fast-paced business development strategic focus underpinned by principles of honesty and fair-play.
+
+                        </p>
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+
+            <div class="col-xl-5 col-lg-5 ">
+                <div class="about-style1-image-box clearfix ">
+
+                    <div class="sec-title" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500">
+
+                        <div class="big-title"><h2>Our<br> <span>Mission</span></h2></div>
+
+                    </div>
+                    <div class="inner-contant" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500">
+                        <p>To build a thriving and dynamic leading industry and indigenous company which is driven by a fast-paced business development strategic focus underpinned by principles of honesty and fair-play.
+
+                        </p>
+
+
+
+
+
+                    </div>
+                </div>
+            </div>
+
+
+
+
+        </div>
+    </div>
+</section>
+
+
 <!--End About Style1 Area-->
 
 <!--Start Services Style1 Area-->
@@ -637,7 +696,7 @@
 <!--End Testimonial Style1 Area-->
 
 <!--Start Features Area-->
-<section class="features-area">
+<section class="features-area d-none">
     <div class="layer-outer" style="background-image:url(assets/images/pattern/features-bg.jpg);"></div>
     <div class="container">
         <div class="sec-title center text-center wow slideInUp animated" data-wow-delay="0.3s" data-wow-duration="1200ms">
