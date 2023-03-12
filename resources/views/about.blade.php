@@ -203,7 +203,7 @@
                             <img style="height: 200px; object-fit: cover;" src="assets/images/blog/blog-v1-1.jpg" alt="Awesome Image">
                             <div class="overlay-style-box1"></div>
                             <div class="link-box">
-                                <a href="blog-single.html"><span class="flaticon-link"></span></a>
+                                <a href="#"><span class="flaticon-link"></span></a>
                             </div>
                         </div>
 
@@ -213,7 +213,7 @@
                             <p>Partnership</p>
                             <div class="border-box thm-bgc1"></div>
                         </div>
-                        <h3 class="blog-title"><a href="blog-single.html">Partnership with the competent Charitable Institution in Nigeria and regions where we work
+                        <h3 class="blog-title"><a href="#">Partnership with the competent Charitable Institution in Nigeria and regions where we work
                         </h3>
 
                     </div>
@@ -228,7 +228,7 @@
                             <img style="height: 200px; object-fit: cover;" src="assets/images/blog/blog-v1-2.jpg" alt="Awesome Image">
                             <div class="overlay-style-box1"></div>
                             <div class="link-box">
-                                <a href="blog-single.html"><span class="flaticon-link"></span></a>
+                                <a href="#"><span class="flaticon-link"></span></a>
                             </div>
                         </div>
                         <div class="date-box">
@@ -240,7 +240,7 @@
                             <p>Management</p>
                             <div class="border-box thm-bgc1"></div>
                         </div>
-                        <h3 class="blog-title"><a href="blog-single.html">Food waste management: proper recycling & food waste reduction
+                        <h3 class="blog-title"><a href="#">Food waste management: proper recycling & food waste reduction
                         </h3>
 
                     </div>
@@ -255,7 +255,7 @@
                             <img style="height: 200px; object-fit: cover;" src="assets/images/blog/blog-v1-3.jpg" alt="Awesome Image">
                             <div class="overlay-style-box1"></div>
                             <div class="link-box">
-                                <a href="blog-single.html"><span class="flaticon-link"></span></a>
+                                <a href="#"><span class="flaticon-link"></span></a>
                             </div>
                         </div>
 
@@ -265,7 +265,7 @@
                             <p>ENERGY</p>
                             <div class="border-box thm-bgc1"></div>
                         </div>
-                        <h3 class="blog-title"><a href="blog-single.html">Effective energy Conservation
+                        <h3 class="blog-title"><a href="#">Effective energy Conservation
                         </h3>
 
                     </div>
@@ -279,7 +279,7 @@
                             <img style="height: 200px; object-fit: cover;" src="assets/images/blog/blog-v2-1.jpg" alt="Awesome Image">
                             <div class="overlay-style-box1"></div>
                             <div class="link-box">
-                                <a href="blog-single.html"><span class="flaticon-link"></span></a>
+                                <a href="#"><span class="flaticon-link"></span></a>
                             </div>
                         </div>
 
@@ -289,7 +289,7 @@
                             <p>PRODUCTIVITY</p>
                             <div class="border-box thm-bgc1"></div>
                         </div>
-                        <h3 class="blog-title"><a href="blog-single.html">Productive workforce
+                        <h3 class="blog-title"><a href="#">Productive workforce
 
                         </h3>
 
@@ -485,7 +485,19 @@
             <div class="col-xl-12">
                 <div class="theme-carousel team-carousel owl-carousel owl-theme owl-dot-style1" data-options='{"loop":true, "margin":30, "autoheight":true, "nav":false, "dots":true, "autoplay":true, "autoplayTimeout":10000, "smartSpeed":700, "responsive":{ "0":{"items": "1"}, "768":{"items": "2"}, "1199":{"items": "3" }}}'>
 
-                    <!--Start Single Team Member-->
+                    <div class="single-team-member style2">
+                        <div class="img-holder">
+                            <div class="inner">
+                                <img style="height: 320px; object-fit:cover;" src="assets/images/team/team-v1-2.jpg" alt="Awesome Image">
+
+                            </div>
+                            <div class="title-holder">
+                                <h3><a href="#">Gabriel Abayomi Ogunseye
+                                </a></h3>
+                                <p>Chief Operating Officer COO</p>
+                            </div>
+                        </div>
+                    </div>
                     <div class="single-team-member style2">
                         <div class="img-holder">
                             <div class="inner">
@@ -501,23 +513,7 @@
                             </div>
                         </div>
                     </div>
-                    <!--End Single Team Member-->
-                    <!--Start Single Team Member-->
-                    <div class="single-team-member style2">
-                        <div class="img-holder">
-                            <div class="inner">
-                                <img style="height: 320px; object-fit:cover;" src="assets/images/team/team-v1-2.jpg" alt="Awesome Image">
 
-                            </div>
-                            <div class="title-holder">
-                                <h3><a href="#">Gabriel Abayomi Ogunseye
-                                </a></h3>
-                                <p>Chief Operating Officer COO</p>
-                            </div>
-                        </div>
-                    </div>
-                    <!--End Single Team Member-->
-                    <!--Start Single Team Member-->
                     <div class="single-team-member style2">
                         <div class="img-holder">
                             <div class="inner">
@@ -533,9 +529,6 @@
                             </div>
                         </div>
                     </div>
-                    <!--End Single Team Member-->
-
-                    <!--Start Single Team Member-->
                     <div class="single-team-member style2">
                         <div class="img-holder">
                             <div class="inner">
@@ -551,8 +544,7 @@
                             </div>
                         </div>
                     </div>
-                    <!--End Single Team Member-->
-                    <!--Start Single Team Member-->
+
                     <div class="single-team-member style2">
                         <div class="img-holder">
                             <div class="inner">
@@ -568,10 +560,9 @@
                             </div>
                         </div>
                     </div>
-                    <!--End Single Team Member-->
-                    <!--Start Single Team Member-->
 
-                    <!--End Single Team Member-->
+
+
                 </div>
 
             </div>
