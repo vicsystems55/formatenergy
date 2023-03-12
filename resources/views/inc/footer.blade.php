@@ -77,8 +77,8 @@
                 <div class="single-box">
                     <div class="our-info-box">
                         <ul>
-                            <li><a href="tel:123456789">08037125172. 08188093777</a></li>
-                            <li><a href="mailto:info@templatepath.com">formatenergylimited@gmail.com</a></li>
+                            <li><a href="tel:08188093777">08037125172. 08188093777</a></li>
+                            <li><a href="mailto:formatenergylimited@gmail.com">formatenergylimited@gmail.com</a></li>
                         </ul>
                     </div>
                 </div>

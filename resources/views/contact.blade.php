@@ -29,7 +29,7 @@
 <section class="contact-form-area">
     <div class="container">
         <div class="sec-title-style3 text-center wow slideInUp animated" data-wow-delay="0.3s" data-wow-duration="1200ms">
-            <p>Don’t be hesitate. You Just Contact Us</p>
+            <p>Just Contact Us</p>
             <div class="big-title"><h2>Now You Are Know<br> Contact Us</h2></div>
             <div class="border-box center">
                 <div class="borders-left thm-bgc3"></div>
@@ -94,7 +94,19 @@
 
 <!--Start Google Map Area-->
 <section class="google-map-area">
-
+    <div class="map-outer">
+        <!--Map Canvas-->
+        <div class="map-canvas"
+            data-zoom="12"
+            data-lat="-37.817085"
+            data-lng="144.955631"
+            data-type="roadmap"
+            data-hue="#ffc400"
+            data-title="Envato"
+            data-icon-path="assets/images/resources/map-marker.png"
+            data-content="Melbourne VIC 3000, Australia<br><a href='mailto:info@youremail.com'>info@youremail.com</a>">
+        </div>
+    </div>
     <div class="outer-container">
         <div class="contact-information-box">
             <div class="title-box">
@@ -107,7 +119,7 @@
                         <i class="fa fa-envelope-o thm-clr3" aria-hidden="true"></i>
                     </div>
                     <div class="text">
-                        <a href="mailto:info@templatepath.com">info@formatenergy.com</a>
+                        <a href="mailto:info@templatepath.com">formatenergylimited@gmail.com</a>
                     </div>
                 </li>
                 <li>
@@ -115,7 +127,7 @@
                         <i class="fa fa-mobile phone thm-clr3" aria-hidden="true"></i>
                     </div>
                     <div class="text">
-                        <a href="tel:+11987654321">08037125172. 08188093777</a>
+                        <a href="tel:+08188093777">08037125172. 08188093777</a>
                     </div>
                 </li>
                 <li>
@@ -129,7 +141,7 @@
                 </li>
 
             </ul>
-            <div class="follow-us">
+            <div class="follow-us d-none">
                 <div class="text">
                     <h3>Social Media</h3>
                 </div>
@@ -138,10 +150,11 @@
                         <li>
                             <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                         </li>
-
                         <li>
-                            <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
+                            <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
                         </li>
+
+
 
                     </ul>
                 </div>
@@ -153,8 +166,8 @@
 <!--End Google Map Area-->
 
 <!--Start Partner Area-->
-<section class="partner-area thm-bgc3-v2 d-none">
-    <div class="container">
+<section class="partner-area bg-warning">
+    <div class="container d-none">
         <div class="row">
             <div class="col-xl-12">
                 <div class="partner-box">
