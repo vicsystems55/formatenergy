@@ -13,7 +13,7 @@
                     </div>
                     <div class="breadcrumb-menu wow slideInUp animated" data-wow-delay="0.3s" data-wow-duration="1500ms">
                         <ul class="clearfix">
-                            <li><a href="index.html">Home Back</a></li>
+                            <li><a href="/">Home Back</a></li>
                             <li><i class="fa fa-angle-double-right" aria-hidden="true"></i></li>
                             <li class="active">Contact Us</li>
                         </ul>
