@@ -59,12 +59,12 @@
 <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js" integrity="sha512-A7AYk1fGKX6S2SsHywmPkrnzTZHrgiVT7GcQkLGDe2ev0aWb8zejytzS8wjo7PGEXKqJOrjQ4oORtnimIRZBtw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-appear/0.1/jquery.appear.js" integrity="sha512-gmlF0Cjvx6n5XCLF9NNN+rZwS3X0Xn1vwuk+K0L3B4qve4UI+RVbNt0VynWadl//O0VQ8X47GH55KF9j3kVdUw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.js" integrity="sha512-4WQnCRyZ0CILKrMrO1P40yJrObxaNBOuImuSCFRV47/CWYh3ISyVPmqZnhiZ4OmhHstEj+QaoMDpQo5SnOXDAw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="assets/js/bootstrap-select.min.js"></script>
-<script src="assets/js/isotope.js"></script>
-<script src="assets/js/jquery.bootstrap-touchspin.js"></script>
-<script src="assets/js/jquery.countdown.min.js"></script>
-<script src="assets/js/jquery.countTo.js"></script>
-<script src="assets/js/jquery.easing.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-select/1.13.13/js/bootstrap-select.min.js" integrity="sha512-PsJpC2jsLEfOehTni+Xl+x+qmIOiqozTe9qE02wKyL9W4s62epQ6gJub1txQ3ikiHm3FLSxQiXec1sNIU36n0Q==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://unpkg.com/isotope-layout@3/dist/isotope.pkgd.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap-touchspin/4.2.0/jquery.bootstrap-touchspin.min.js" integrity="sha512-VzUh7hLMvCqgvfBmkd2OINf5/pHDbWGqxS+RFaL/fsgA+rT94LxTFnjlFkm0oKM5BXWbc9EjBQAuARqzGKLbcA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.countdown/2.1.0/jquery.countdown.min.js" integrity="sha512-xw1nav0ld5C5wJyaepyJULblCNhQ9h77Fdj3NnbHjh1dFBfL1mhaGAb1AV3B828hiZ68AdctBmcXFHMFAwLorA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-countto/1.0.0/jquery.countTo.js" integrity="sha512-L+dXoK3mXelxj9VHDbmRaD4+gOzi1ZcMhUQu/45KwbPZqpAHCdVIR3JqKxx37qSYzopsdgVwhCvR35CM8tlrQw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js" integrity="sha512-ahmSZKApTDNd3gVuqL5TQ3MBTj8tL5p2tYV05Xxzcfu6/ecvt1A0j6tfudSGBVuteSoTRMqMljbfdU0g2eDNUA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="assets/js/jquery.enllax.min.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.1/jquery.fancybox.min.js" integrity="sha512-9s/WNXa83EmNcBiPEO2dFWJt1MmBzz+xCR0ca96zetZt9zIrVj8gn2xdD0edR3tab1rc/Ly34hnEZ7nT+tWLOw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="assets/js/jquery.mixitup.min.js"></script>
@@ -77,7 +77,7 @@
 <script src="assets/js/validation.js"></script>
 <script src="assets/js/wow.js"></script>
 <script src="assets/js/jquery.magnific-popup.min.js"></script>
-<script src="assets/js/slick.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/slick-carousel/1.8.0/slick.js" integrity="sha512-AcdgayNJFgi9/3XG5u9GgVXZSLpJKsv3TB+K+RYUgy7gZV3ZaufCy3CxT9YIvFmHhi9X4ixx1HFFRXfO68Cofg==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="assets/js/lazyload.js"></script>
 <script src="assets/js/scrollbar.js"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" integrity="sha512-uto9mlQzrs59VwILcLiRYeLKPPbS/bT71da/OEBYEwcdNUk8jYIy+D176RYoop1Da+f9mvkYrmj5MCLZWEtQuA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
