@@ -36,14 +36,7 @@
                     <div class="gradient-bg" data-aos="fade-up" data-aos-easing="linear" data-aos-duration="1000"></div>
                     <div class="image-box">
                         <img src="assets/images/about/about-1.jpg" alt="Awesome Image">
-                        <div class="overlay-box">
-                            <div class="left">
-                                <h2>20</h2>
-                            </div>
-                            <div class="right">
-                                <h4>Years of Experience</h4>
-                            </div>
-                        </div>
+
                     </div>
                 </div>
             </div>
@@ -109,7 +102,8 @@
 
                     </div>
                     <div class="inner-contant" data-aos="fade-left" data-aos-easing="linear" data-aos-duration="1500">
-                        <p>To build a thriving and dynamic leading industry and indigenous company which is driven by a fast-paced business development strategic focus underpinned by principles of honesty and fair-play.
+                        <p>To become the industry leader among indigenous Nigerian companies through the focused pursuit of our stated corporate goals, while training young Nigerian professionals to take the lead as drivers of the positive transformation of the Nigerian economy.
+
 
                         </p>
 
