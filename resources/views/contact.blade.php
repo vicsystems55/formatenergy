@@ -3,7 +3,7 @@
 @section('content')
 
 <!--Start breadcrumb area-->
-<section class="breadcrumb-area style3" style="background-image: url(assets/images/breadcrumb/breadcrumb-3.jpg);">
+<section class="breadcrumb-area style1" style="background-image: url(assets/images/breadcrumb/breadcrumb-3.jpg);">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
