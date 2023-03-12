@@ -142,7 +142,7 @@
             <div class="inner">
                 <span class="flaticon-acquisition thm-clr1"></span>
                 <h3>Marketing Anaylysis</h3>
-                <p class="">Current influential business trends – recent inclines & interests in telecoms and construction consortiums
+                <p class="">* Current influential business trends (recent inclines & interests in telecoms and construction consortiums)
                 </p>
             </div>
         </div>
@@ -153,9 +153,9 @@
                 <span class="flaticon-business"></span>
                 <h3>Target Customers</h3>
 
-                <p>Company High level management</p>
-                <p>Large and Small-scale business set-ups</p>
-                <p>Governmental Agencies</p>
+                <p>* Company High level management</p>
+                <p>* Large and Small-scale business set-ups</p>
+                <p>* Governmental Agencies</p>
             </div>
         </div>
         <!--End Single Features Box-->
@@ -164,9 +164,10 @@
             <div class="inner">
                 <span class="flaticon-bill thm-clr1"></span>
                 <h3>Critical Success Factors</h3>
-                <p>Range of products</p>
-                <p>location of facilities </p>
-                <p>product quality</p>
+
+                <p>* Range of products</p>
+                <p>* Location of facilities </p>
+                <p>* Product quality</p>
 
             </div>
         </div>
