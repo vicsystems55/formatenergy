@@ -30,12 +30,12 @@
                                     <li class="dropdown"><a href="/about">About</a>
 
                                     </li>
-                                    <li class="dropdown"><a href="/services">Services</a>
+                                    {{-- <li class="dropdown"><a href="/services">Services</a>
 
                                     </li>
                                     <li class="dropdown"><a href="/projects">Projects</a>
 
-                                    </li>
+                                    </li> --}}
                                     <li class="dropdown"><a href="/contact">Contact</a>
 
 

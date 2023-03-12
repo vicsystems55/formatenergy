@@ -94,23 +94,11 @@
 
 <!--Start Google Map Area-->
 <section class="google-map-area">
-    <div class="map-outer">
-        <!--Map Canvas-->
-        <div class="map-canvas"
-            data-zoom="12"
-            data-lat="-37.817085"
-            data-lng="144.955631"
-            data-type="roadmap"
-            data-hue="#ffc400"
-            data-title="Envato"
-            data-icon-path="assets/images/resources/map-marker.png"
-            data-content="Melbourne VIC 3000, Australia<br><a href='mailto:info@youremail.com'>info@youremail.com</a>">
-        </div>
-    </div>
+
     <div class="outer-container">
         <div class="contact-information-box">
             <div class="title-box">
-                <p>Wanna Touch?</p>
+                <p>Get in touch?</p>
                 <h2>Contact Info</h2>
             </div>
             <ul class="contact-us">
@@ -119,7 +107,7 @@
                         <i class="fa fa-envelope-o thm-clr3" aria-hidden="true"></i>
                     </div>
                     <div class="text">
-                        <a href="mailto:info@templatepath.com">website@example.com</a>
+                        <a href="mailto:info@templatepath.com">info@formatenergy.com</a>
                     </div>
                 </li>
                 <li>
@@ -127,7 +115,7 @@
                         <i class="fa fa-mobile phone thm-clr3" aria-hidden="true"></i>
                     </div>
                     <div class="text">
-                        <a href="tel:+11987654321">(+1) 828-376-0532</a>
+                        <a href="tel:+11987654321">08037125172. 08188093777</a>
                     </div>
                 </li>
                 <li>
@@ -135,17 +123,11 @@
                         <i class="fa fa-map-marker map thm-clr3" aria-hidden="true"></i>
                     </div>
                     <div class="text">
-                        <p>9332 Bernier Dam, Miami, USA</p>
+                        <p>No 9, Oluwole Adekunle Close, <br>
+                            Off Church Street, Jakande, Lagos</p>
                     </div>
                 </li>
-                <li>
-                    <div class="icon">
-                        <i class="fa fa-clock-o thm-clr3" aria-hidden="true"></i>
-                    </div>
-                    <div class="text">
-                        <p>Monday-Saturday 7:00AM - 6:00PM</p>
-                    </div>
-                </li>
+
             </ul>
             <div class="follow-us">
                 <div class="text">
@@ -156,18 +138,11 @@
                         <li>
                             <a href="#"><i class="fa fa-facebook" aria-hidden="true"></i></a>
                         </li>
-                        <li>
-                            <a href="#"><i class="fa fa-twitter" aria-hidden="true"></i></a>
-                        </li>
+
                         <li>
                             <a href="#"><i class="fa fa-linkedin" aria-hidden="true"></i></a>
                         </li>
-                        <li>
-                            <a href="#"><i class="fa fa-pinterest" aria-hidden="true"></i></a>
-                        </li>
-                        <li>
-                            <a href="#"><i class="fa fa-vimeo" aria-hidden="true"></i></a>
-                        </li>
+
                     </ul>
                 </div>
             </div>
@@ -178,7 +153,7 @@
 <!--End Google Map Area-->
 
 <!--Start Partner Area-->
-<section class="partner-area thm-bgc3-v2">
+<section class="partner-area thm-bgc3-v2 d-none">
     <div class="container">
         <div class="row">
             <div class="col-xl-12">
