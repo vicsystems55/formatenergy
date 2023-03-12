@@ -11,13 +11,13 @@
 	<!-- For IE -->
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
 
-	<link rel="stylesheet" href="assets/css/aos.css">
-	<link rel="stylesheet" href="assets/css/bootstrap.min.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.css" integrity="sha512-1cK78a1o+ht2JcaW6g8OXYwqpev9+6GqOkz9xmBN9iUUhIndKtxwILGWYOSibOKjLsEdjyjZvYDq/cZwNeak0w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.2/dist/css/bootstrap.min.css" integrity="sha384-xOolHFLEh07PJGoPkLv1IbcEPTNtaed2xpHsD9ESMhqIYd0nLMwNLD69Npy4HI+N" crossorigin="anonymous">
 	<link rel="stylesheet" href="assets/css/imp.css">
 	<link rel="stylesheet" href="assets/css/custom-animate.css">
 	<link rel="stylesheet" href="assets/css/flaticon.css">
-	<link rel="stylesheet" href="assets/css/font-awesome.min.css">
-	<link rel="stylesheet" href="assets/css/owl.css">
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.2.0/css/font-awesome.min.css" integrity="sha512-ZfKn7az0YmtPUojZnRXO4CUdt3pn+ogBAyGbqGplrCIR5B/tQwPGtF2q29t+zQj6mC/20w4sSl0cF5F3r0HKSQ==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+	<link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/assets/owl.carousel.css" integrity="sha512-UTNP5BXLIptsaj5WdKFrkFov94lDx+eBvbKyoe1YAfjeRPC+gT5kyZ10kOHCfNZqEui1sxmqvodNUx3KbuYI/A==" crossorigin="anonymous" referrerpolicy="no-referrer" />
 	<link rel="stylesheet" href="assets/css/magnific-popup.css">
 	<link rel="stylesheet" href="assets/css/scrollbar.css">
 	<link rel="stylesheet" href="assets/css/hiddenbar.css">
@@ -55,10 +55,10 @@
 </div>
 
 
-<script src="assets/js/jquery.js"></script>
-<script src="assets/js/aos.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.js" integrity="sha512-jKxp7JHEN6peEmzmg6a7XJBORNTB0ITD2Pi+6FUkc16PCaNAJX2ahZ1ejn1p1uY37Pxyirn/0OMNZbITbEg3jw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js" integrity="sha512-A7AYk1fGKX6S2SsHywmPkrnzTZHrgiVT7GcQkLGDe2ev0aWb8zejytzS8wjo7PGEXKqJOrjQ4oORtnimIRZBtw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="assets/js/appear.js"></script>
-<script src="assets/js/bootstrap.bundle.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.js" integrity="sha512-4WQnCRyZ0CILKrMrO1P40yJrObxaNBOuImuSCFRV47/CWYh3ISyVPmqZnhiZ4OmhHstEj+QaoMDpQo5SnOXDAw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="assets/js/bootstrap-select.min.js"></script>
 <script src="assets/js/isotope.js"></script>
 <script src="assets/js/jquery.bootstrap-touchspin.js"></script>
@@ -72,7 +72,7 @@
 <script src="assets/js/jquery.polyglot.language.switcher.js"></script>
 <script src="assets/js/map-script.js"></script>
 <script src="assets/js/nouislider.js"></script>
-<script src="assets/js/owl.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/OwlCarousel2/2.3.4/owl.carousel.js" integrity="sha512-gY25nC63ddE0LcLPhxUJGFxa2GoIyA5FLym4UJqHDEMHjp8RET6Zn/SHo1sltt3WuVtqfyxECP38/daUc/WVEA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="assets/js/timePicker.js"></script>
 <script src="assets/js/validation.js"></script>
 <script src="assets/js/wow.js"></script>
