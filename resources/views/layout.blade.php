@@ -57,7 +57,7 @@
 
 <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/1.12.4/jquery.js" integrity="sha512-jKxp7JHEN6peEmzmg6a7XJBORNTB0ITD2Pi+6FUkc16PCaNAJX2ahZ1ejn1p1uY37Pxyirn/0OMNZbITbEg3jw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/aos/2.3.4/aos.js" integrity="sha512-A7AYk1fGKX6S2SsHywmPkrnzTZHrgiVT7GcQkLGDe2ev0aWb8zejytzS8wjo7PGEXKqJOrjQ4oORtnimIRZBtw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
-<script src="assets/js/appear.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jquery-appear/0.1/jquery.appear.js" integrity="sha512-gmlF0Cjvx6n5XCLF9NNN+rZwS3X0Xn1vwuk+K0L3B4qve4UI+RVbNt0VynWadl//O0VQ8X47GH55KF9j3kVdUw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.2.1/js/bootstrap.bundle.js" integrity="sha512-4WQnCRyZ0CILKrMrO1P40yJrObxaNBOuImuSCFRV47/CWYh3ISyVPmqZnhiZ4OmhHstEj+QaoMDpQo5SnOXDAw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="assets/js/bootstrap-select.min.js"></script>
 <script src="assets/js/isotope.js"></script>
@@ -66,7 +66,7 @@
 <script src="assets/js/jquery.countTo.js"></script>
 <script src="assets/js/jquery.easing.min.js"></script>
 <script src="assets/js/jquery.enllax.min.js"></script>
-<script src="assets/js/jquery.fancybox.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/fancybox/3.2.1/jquery.fancybox.min.js" integrity="sha512-9s/WNXa83EmNcBiPEO2dFWJt1MmBzz+xCR0ca96zetZt9zIrVj8gn2xdD0edR3tab1rc/Ly34hnEZ7nT+tWLOw==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <script src="assets/js/jquery.mixitup.min.js"></script>
 <script src="assets/js/jquery.paroller.min.js"></script>
 <script src="assets/js/jquery.polyglot.language.switcher.js"></script>
@@ -80,7 +80,7 @@
 <script src="assets/js/slick.js"></script>
 <script src="assets/js/lazyload.js"></script>
 <script src="assets/js/scrollbar.js"></script>
-<script src="assets/js/jquery-ui.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/jqueryui/1.12.1/jquery-ui.min.js" integrity="sha512-uto9mlQzrs59VwILcLiRYeLKPPbS/bT71da/OEBYEwcdNUk8jYIy+D176RYoop1Da+f9mvkYrmj5MCLZWEtQuA==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
 <!-- thm custom script -->
 <script src="assets/js/custom.js"></script>
 
